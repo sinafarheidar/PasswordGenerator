@@ -1,3 +1,3 @@
 # PasswordGenerator
 
-A random password generator. The user can choose how long they want their passcode. between 8 - 128 characters possible.
+A random password generator. The user can choose if they want symbols or numbers included into their password
